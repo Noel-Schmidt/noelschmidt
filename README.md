@@ -4,9 +4,7 @@ My favorite stack is MEAN
 <a href="https://google.com">🏡 Personal Homepage</a> |
 <a href="https://twitter.com/noelschmidt_">💡 Twitter</a>
 
-### Milestones
-
-
+<h2>Milestones</h2>
 
 <h3>2015</h3>
 <details>
@@ -68,7 +66,7 @@ My favorite stack is MEAN
   - Let's see where 2021 will take me
 </details>
 
-### Stats
+<h2>Stats</h2>
 
 <a href="https://github.com/noel-schmidt">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noel-schmidt&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
