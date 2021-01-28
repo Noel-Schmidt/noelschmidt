@@ -19,7 +19,7 @@ My favorite stack is MEAN
   <summary>Expand</summary>
   
   - Started teaching myself programming for Realsies (Java)
-  - Dealing with Documentations
+  - Dealing with documentations
   
 </details>  
  
