@@ -8,7 +8,7 @@ My favorite stack is MEAN
 
 
 
-<h3>2015-2016</h3>
+<h3>2015</h3>
 <details>
   <summary>Expand</summary>
   
@@ -16,12 +16,13 @@ My favorite stack is MEAN
   
 </details>
  
- <h3>2017</h3>
+<h3>2016-2017</h3>
 <details>
   <summary>Expand</summary>
   
-  - Started Actually Teaching Myself Programming for Realsies (Java)
-  - Learned Handling with Documentations
+  - Started Teaching Myself Programming for Realsies (Java)
+  - Dealing with Documentations
+  
 </details>  
  
 <h3>2018</h3>
@@ -41,7 +42,7 @@ My favorite stack is MEAN
   - Learned MySQL
   - Learned MongoDB
   - Learned Express
-  - Learned Handling with Gitlab
+  - Learned Dealing with Gitlab
   
 </details>
 
@@ -55,9 +56,9 @@ My favorite stack is MEAN
   - Learned PostgresSQL
   - Learned REST
   - <a href="https://jwt.io/">Learned JSON Webtokens</a>
-  - Founding of a Company
-  - Created Github Profile
-  - Written first API Interface
+  - Founded a Company
+  - Created a Github Profile
+  - Wrote my first API interface
 </details>
 
 <h3>2021</h3>
