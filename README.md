@@ -2,7 +2,7 @@ UI/UX Designer
 My favorite stack is MEAN
 
 <a href="https://google.com">🏡 Personal Homepage</a> |
-<a href="https://twitter.com/noelschmidt_">💡 Twitter</a> |
+<a href="https://twitter.com/noelschmidt_">💡 Twitter</a>
 
 ### Milestones
 
