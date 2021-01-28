@@ -10,7 +10,7 @@ My favorite stack is MEAN
 <details>
   <summary>Expand</summary>
   
-  - Learned a lot of PC Stuff
+  - Learned a lot of PC stuff
   
 </details>
  
