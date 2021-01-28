@@ -40,7 +40,7 @@ My favorite stack is MEAN
   - Learned MySQL
   - Learned MongoDB
   - Learned Express
-  - Learned Dealing with Gitlab
+  - Learned dealing with Gitlab
   
 </details>
 
@@ -53,9 +53,9 @@ My favorite stack is MEAN
   - <a href="https://www.electronjs.org/">Learned Electron</a>
   - Learned PostgresSQL
   - Learned REST
-  - <a href="https://jwt.io/">Learned JSON Webtokens</a>
-  - Founded a Company
-  - Created a Github Profile
+  - <a href="https://jwt.io/">Learned JSON Web Tokens</a>
+  - Founded a company
+  - Created a Github profile
   - Wrote my first API interface
 </details>
 
