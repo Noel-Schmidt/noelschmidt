@@ -69,6 +69,6 @@ My favorite stack is MEAN
 <h2>Stats</h2>
 
 <a href="https://github.com/noel-schmidt">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noel-schmidt&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noel-schmidt&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noel-schmidt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noel-schmidt&layout=compact&exclude_lang=java+r&theme=dark" />
 </a>
