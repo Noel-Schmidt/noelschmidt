@@ -67,7 +67,7 @@ My favorite stack is MEAN
   - Let's see where 2021 will take me
 </details>
 
-<h2>Stats</h2>
+<h2>Statistics</h2>
 
 <a href="https://github.com/noel-schmidt">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noel-schmidt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
