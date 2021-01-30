@@ -37,6 +37,7 @@ My favorite stack is MEAN
 <details>
   <summary>Expand</summary>
   
+  - First contact with Unreal Engine
   - Learned a lot of Javascript
   - Learned MySQL
   - Learned MongoDB
@@ -49,6 +50,8 @@ My favorite stack is MEAN
 <details>
   <summary>Expand</summary>
   
+  - First contact with Unity
+  - First contact with C#
   - Learned a lot of Typescript
   - <a href="https://angular.io/">Learned a lot of Angular</a>
   - <a href="https://www.electronjs.org/">Learned Electron</a>
