@@ -67,7 +67,6 @@ My favorite stack is MEAN
   - Learned <a href="https://cli.vuejs.org/">Vue.js</a>
   - First contact with <a href="https://www.sketch.com/">Sketch</a>
   - Learned the <a href="https://alloc8or.re/gta5/nativedb/">GTA Natives</a>
-
   - Let's see where 2021 will take me
 </details>
 
