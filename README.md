@@ -1,5 +1,8 @@
 UI/UX Designer  
-My favorite stack is MEAN
+My favorite stack is MEAN<br>
+<a href="https://noel-schmidt.de">🕹 Homepage</a> | 
+<a href="https://github.com/Noel-Schmidt/noel-schmidt/blob/main/MY-SETUP.md">🕹 Setup</a> | 
+<a href="https://twitter.com/noelschmidt_">🔹 Twitter</a>
 <br>
 <br>
 <h2>Milestones</h2>
