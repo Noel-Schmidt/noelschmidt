@@ -1,5 +1,6 @@
 <h2>My Setup</h2>
 
+<h3>Hardware</h3>
 <b>Gaming Setup</b>
 - <a href="https://amzn.to/2QnRcaV">Keyboard: Razer BlackWidow Elite</a>
 - <a href="https://amzn.to/32ofrc9">Mouse: Razer Mamba Elite</a>
@@ -11,9 +12,27 @@
 - <a href="https://amzn.to/2PRrkER">Headphone II: Razer Kraken Ultimate</a>
 
 <b>More</b>
-- <a href="https://amzn.to/3aPgohW">Smartphone: IPhone 11 Pro (Midnight green)</a>
+- <a href="https://amzn.to/3aPgohW">Smartphone: IPhone 11 Pro</a>
 - <a href="https://amzn.to/3tdRIa8">Console: Playstation 4</a>
 - <a href="https://amzn.to/3uNT7EU">Console: Playstation 3</a>
 - <a href="https://amzn.to/3sehOIT">Console: Playstation 2</a>
 - <a href="https://amzn.to/3uJVwAk">Console: Xbox One</a>
 - <a href="https://amzn.to/3wQIsLf">Console: Xbox 360</a>
+
+<hr>
+
+<h3>Software</b>
+
+<b>Development</b>
+- <a href="https://www.jetbrains.com/phpstorm/">JetBrains: PhpStorm</a>
+- <a href="https://www.jetbrains.com/go/">JetBrains: GoLand</a>
+- <a href="https://www.jetbrains.com/rider/">JetBrains: Rider</a>
+- <a href="https://www.jetbrains.com/pycharm/">JetBrains: PyCharm Pro</a>
+- <a href="https://www.jetbrains.com/ruby/">Jetbrains: RubyMine</a>
+- <a href="https://www.jetbrains.com/datagrip/">JetBrains: DataGrip</a>
+- <a href="https://unity.com/">Unity</a>
+
+<b>Entertainment</b>
+- <a href="https://brave.com/">Browser: Brave</a>
+- <a href="https://www.spotify.com/de/">Music: Spotify</a>
+- <a href="https://store.steampowered.com/">Games: Steam</a>
