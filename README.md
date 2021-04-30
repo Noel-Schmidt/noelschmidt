@@ -70,7 +70,10 @@ My favorite stack is MEAN<br>
   - Learned <a href="https://cli.vuejs.org/">Vue.js</a>
   - First contact with <a href="https://www.sketch.com/">Sketch</a>
   - Learned the <a href="https://alloc8or.re/gta5/nativedb/">GTA 5 Natives</a>
-  - Let's see where 2021 will take me
+  - Learned <a href="https://strapi.io/">Strapi</a>
+  - Started game development with <a href="https://unity.com/">Unity<a>
+  
+  ⚡️ Let's see where 2021 will take me
 </details>
 
 <h2>Statistics</h2>
