@@ -33,7 +33,17 @@
 - <a href="https://www.jetbrains.com/datagrip/">JetBrains: DataGrip</a>
 - <a href="https://unity.com/">Unity</a>
 
+<b>Communication</b>
+- <a href="https://discord.com/">Discord</a>
+- <a href="https://new.teamspeak.com/">TeamSpeak 5</a>
+- <a href="https://teamspeak.com/">TeamSpeak 3</a>
+
 <b>Entertainment</b>
 - <a href="https://brave.com/">Browser: Brave</a>
 - <a href="https://www.spotify.com/de/">Music: Spotify</a>
 - <a href="https://store.steampowered.com/">Games: Steam</a>
+
+<b>More</b>
+- <a href="https://www.proxmox.com/">Proxmox</a>
+- <a href="https://termius.com/">Termius</a>
+- <a href="https://github.com/outline/outline">Outline</a>
