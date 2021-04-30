@@ -1,6 +1,7 @@
 <h2>My Setup</h2>
 
 <h3>Hardware</h3>
+
 <b>Gaming Setup</b>
 - <a href="https://amzn.to/2QnRcaV">Keyboard: Razer BlackWidow Elite</a>
 - <a href="https://amzn.to/32ofrc9">Mouse: Razer Mamba Elite</a>
@@ -21,7 +22,7 @@
 
 <hr>
 
-<h3>Software</b>
+<h3>Software</h3>
 
 <b>Development</b>
 - <a href="https://www.jetbrains.com/phpstorm/">JetBrains: PhpStorm</a>
