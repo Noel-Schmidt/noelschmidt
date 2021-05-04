@@ -72,6 +72,7 @@ My favorite stack is MEAN<br>
   - Learned the <a href="https://alloc8or.re/gta5/nativedb/">GTA 5 Natives</a>
   - Learned <a href="https://strapi.io/">Strapi</a>
   - Started game development with <a href="https://unity.com/">Unity<a>
+  - Learned <a href="https://socket.io/">Socket.io</a>
   
   ⚡️ Let's see where 2021 will take me
 </details>
