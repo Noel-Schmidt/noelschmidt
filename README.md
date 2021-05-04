@@ -67,12 +67,12 @@ My favorite stack is MEAN<br>
 <details>
   <summary>Expand</summary>
   
-  - Learned <a href="https://cli.vuejs.org/">Vue.js</a>
-  - First contact with <a href="https://www.sketch.com/">Sketch</a>
-  - Learned the <a href="https://alloc8or.re/gta5/nativedb/">GTA 5 Natives</a>
-  - Learned <a href="https://strapi.io/">Strapi</a>
-  - Started game development with <a href="https://unity.com/">Unity<a>
-  - Learned <a href="https://socket.io/">Socket.io</a>
+  - <a href="https://cli.vuejs.org/">Learned Vue.js</a>
+  - First contact with Sketch</a>
+  - <a href="https://alloc8or.re/gta5/nativedb/">Learned the GTA 5 Natives</a>
+  - <a href="https://strapi.io/">Learned Strapi</a>
+  - Started game development with Unity
+  - <a href="https://socket.io/">Learned Socket.io</a>
   
   ⚡️ Let's see where 2021 will take me
 </details>
