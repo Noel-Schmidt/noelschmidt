@@ -91,13 +91,11 @@ My favorite stack is MEAN<br>
   <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/240px-Socket-io.svg.png">
   <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
   <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png">
-  <img width="45" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png">
   <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png">
   <img width="45" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png">
   <img width="45" src="https://img.icons8.com/color/452/mongodb.png">
   <img width="45" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png">
   <img width="45" src="https://image.flaticon.com/icons/png/512/732/732212.png">
   <img width="45" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-512.png">
-  <img width="45" src="https://cdn.iconscout.com/icon/free/png-512/unreal-engine-555438.png">
 </center>
 
