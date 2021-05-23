@@ -9,8 +9,8 @@
 <b>Audio Setup</b>
 - <a href="https://www.thomann.de/de/rode_nt1a_complete_vocal_recording.htm">Microphone: Rode NT1A</a>
 - <a href="https://www.thomann.de/de/dr_webstation.htm">Mixer: D&R Webstation</a>
-- <a href="https://www.thomann.de/de/dbx_286_s.htm">Sound Processing 1: DBX 286 S</a>
-- <a href="https://www.thomann.de/de/behringer_mdx4600_multicom_pro_xl_v2.htm">Sound Processing 2: D&R Webstation</a>
+- <a href="https://www.thomann.de/de/dbx_286_s.htm">Sound Processing I: DBX 286 S</a>
+- <a href="https://www.thomann.de/de/behringer_mdx4600_multicom_pro_xl_v2.htm">Sound Processing II: D&R Webstation</a>
 - <a href="https://www.thomann.de/de/beyerdynamic_dt770pro.htm">Headphone I: beyerdynamic DT-770 Pro</a>
 - <a href="https://amzn.to/2PRrkER">Headphone II: Razer Kraken Ultimate</a>
 
