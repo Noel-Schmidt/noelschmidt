@@ -5,7 +5,7 @@ My favorite stack is MEAN<br>
 <a href="https://twitter.com/noelschmidt_">🔹 Twitter</a>
 <br>
 <br>
-<h2>Milestones</h2>
+<h2>Milestones ⭐️</h2>
 
 <h3>2015</h3>
 <details>
@@ -77,7 +77,7 @@ My favorite stack is MEAN<br>
   ⚡️ Let's see where 2021 will take me
 </details>
 
-<h2>Statistics</h2>
+<h2>Statistics 📊</h2>
 
 <a href="https://github.com/noel-schmidt">
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=noel-schmidt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
